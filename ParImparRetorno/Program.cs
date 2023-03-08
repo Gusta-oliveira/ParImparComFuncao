@@ -2,7 +2,7 @@
 Console.WriteLine("Informe um valor para verificar se é par ");
 numero = int.Parse(Console.ReadLine());
 
-if (ehPar(numero))
+if (EhPar(numero))
 {
     Console.WriteLine($"O número {numero} é par");
 }
