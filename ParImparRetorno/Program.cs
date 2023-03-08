@@ -12,7 +12,7 @@ else
 }
 
 
-bool ehPar(int valor)
+bool EhPar(int valor)
 {
     if (valor % 2 == 0)
     {
